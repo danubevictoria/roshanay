@@ -87,6 +87,10 @@ hr {
     /*background*/: rgba(255,255,255,0.9);
 }
 
+.carousel-wrapper {
+    margin-bottom: 20px;
+}
+
 .intro-text {
     text-transform: uppercase;
     font-size: 1.25em;
@@ -119,6 +123,9 @@ hr {
     width: auto;
 }
 
+.instawidget {
+    margin-left: 5px;
+}
 .nav>li>a:hover {
         border-bottom: 4px solid #d1c9bd;
         margin-bottom: -4px;
