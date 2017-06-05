@@ -114,6 +114,11 @@ hr {
     height: auto;
 }*/
 
+#about-img {
+    max-height: 520px;
+    width: auto;
+}
+
 .nav>li>a:hover {
         border-bottom: 4px solid #d1c9bd;
         margin-bottom: -4px;
